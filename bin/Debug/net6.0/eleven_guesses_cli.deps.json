@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eleven_guesses_cli/1.0.0": {
+        "runtime": {
+          "eleven_guesses_cli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eleven_guesses_cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

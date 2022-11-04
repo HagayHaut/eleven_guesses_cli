@@ -1,0 +1,15 @@
+/home/hagay/Development/csharp/eleven_guesses_cli/bin/Debug/net6.0/eleven_guesses_cli
+/home/hagay/Development/csharp/eleven_guesses_cli/bin/Debug/net6.0/eleven_guesses_cli.deps.json
+/home/hagay/Development/csharp/eleven_guesses_cli/bin/Debug/net6.0/eleven_guesses_cli.runtimeconfig.json
+/home/hagay/Development/csharp/eleven_guesses_cli/bin/Debug/net6.0/eleven_guesses_cli.dll
+/home/hagay/Development/csharp/eleven_guesses_cli/bin/Debug/net6.0/eleven_guesses_cli.pdb
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.csproj.AssemblyReference.cache
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.GeneratedMSBuildEditorConfig.editorconfig
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.AssemblyInfoInputs.cache
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.AssemblyInfo.cs
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.csproj.CoreCompileInputs.cache
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.dll
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/refint/eleven_guesses_cli.dll
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.pdb
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/eleven_guesses_cli.genruntimeconfig.cache
+/home/hagay/Development/csharp/eleven_guesses_cli/obj/Debug/net6.0/ref/eleven_guesses_cli.dll
